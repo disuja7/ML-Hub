@@ -1,6 +1,11 @@
 <div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/84925346/193271219-6360d311-ea13-42eb-8822-4ec2fd854ee5.jpeg" height='200' width='450'></div>
 
 ## **ML-Hub**
+[![Issues](https://img.shields.io/github/issues/DSC-JSS-NOIDA/ML-Hub)](https://github.com/DSC-JSS-NOIDA/QuickLearn/issues)
+[![PRs](https://img.shields.io/github/issues-pr/DSC-JSS-NOIDA/ML-Hub)](https://github.com/DSC-JSS-NOIDA/QuickLearn/pulls)
+[![Maintenance](https://img.shields.io/maintenance/yes/2021?color=green&logo=github)](https://github.com/DSC-JSS-NOIDA/)
+[![Forks](https://img.shields.io/github/forks/DSC-JSS-NOIDA/ML-Hub?style=social)](https://github.com/DSC-JSS-NOIDA/ML-Hub) [![Stars](https://img.shields.io/github/stars/DSC-JSS-NOIDA/ML-Hub?style=social)](https://github.com/DSC-JSS-NOIDA/ML-Hub) [![Watchers](https://img.shields.io/github/watchers/DSC-JSS-NOIDA/ML-Hub?style=social)](https://github.com/DSC-JSS-NOIDA/ML-Hub) [![Twitter Follow](https://img.shields.io/twitter/follow/GDSCJSSATEN?style=social)](https://twitter.com/GDSCJSSATEN)
+
 A collection of several Machine learning projects from beginner to intermediate level.
 
 
