@@ -74,19 +74,19 @@ $ git push
 <br>
 
 ## Project List 📝
-| Serial No. | Project Name | Contributor | Link |
+| Serial No. | Project Name | Contributor | Dataset Link |
 | :-: | :-: | :-: | :-: |
-| 01 | Breast Cancer Prediction |  | [Click Here]() |
-| 02 | Car Price prediction |  | [Click Here]() |
-| 03 | Brain Stroke prediction |  | [Click Here]() |
-| 04 | Law School Admission dataset |  | [Click Here]() |
-| 05 | Data Science Job Salaries |  | [Click Here]() |
-| 06 | BigMart Sales Analysis and Prediction |  | [Click Here]() |
-| 07 | Estimate the weight of Fishes |  | [Click Here]() |
-| 08 | Loan Prediction |  | [Click Here]() |
-| 09 | Flight Fare Prediction |  | [Click Here]() |
-| 10 | Taxi Demand Prediction |  | [Click Here]() |
-| 11 | Amazon Book Analysis |  | [Click Here]() |
+| 01 | Breast Cancer Prediction |  | [Click Here](https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction) |
+| 02 | Car Price prediction |  | [Click Here](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars) |
+| 03 | Brain Stroke prediction |  | [Click Here](https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset) |
+| 04 | Law School Admission dataset |  | [Click Here](https://www.kaggle.com/datasets/danofer/law-school-admissions-bar-passage) |
+| 05 | Data Science Job Salaries |  | [Click Here](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries) |
+| 06 | BigMart Sales Analysis and Prediction |  | [Click Here](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data?select=Train.csv) |
+| 07 | Estimate the weight of Fishes |  | [Click Here](https://www.kaggle.com/datasets/aungpyaeap/fish-market?select=Fish.csv) |
+| 08 | Loan Prediction |  | [Click Here](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset) |
+| 09 | Flight Fare Prediction |  | [Click Here](https://machinelearningprojects.net/flight-price-prediction/) |
+| 10 | Taxi Demand Prediction |  | [Click Here](https://github.com/anafisa/NYC-Taxi-Demand-Prediction) |
+| 11 | Amazon Book Analysis |  | [Click Here](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019) |
 
 <br>
 
