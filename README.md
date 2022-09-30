@@ -1,6 +1,7 @@
 <div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/84925346/193271219-6360d311-ea13-42eb-8822-4ec2fd854ee5.jpeg" height='200' width='450'></div>
+<br>
 
-## **ML-Hub**
+## **ML-Hub** 💻
 [![Issues](	https://img.shields.io/github/issues/DSC-JSS-NOIDA/ML-Hub)](https://github.com/DSC-JSS-NOIDA/ML-Hub/issues)
 [![PRs](https://img.shields.io/github/issues-pr/DSC-JSS-NOIDA/ML-Hub)](https://github.com/DSC-JSS-NOIDA/Ml-Hub/pulls)
 [![Maintenance](https://img.shields.io/maintenance/yes/2021?color=green&logo=github)](https://github.com/DSC-JSS-NOIDA/)
@@ -8,26 +9,31 @@
 
 A collection of several Machine learning projects from beginner to intermediate level.
 
+<br> 
 
-## Steps for contribution-
+## Steps for contribution ⚙️
 - Fork the repository
 - Clone your forked repository using terminal or gitbash.
 - Make changes to the cloned repository
 - Add, Commit and Push
 - Then in Github, in your cloned repository find the option to make a pull request
+<br>
 
-## Resources-
+## Resources 📖
 - **Git and Github**: [Git and Github for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
-## How should the Project look like?🤔
+<br>
+
+## How should the Project look like? 🤔
 - Create a new Folder with the name same as the Project name (such as, Breast Cancer Prediction) <br><br>
 - Inside this Folder there has to be three sub-folders or files- <br><br>
     **1 ) Dataset Folder** - This folder contains the dataset that is provided for analysis and model building.<br><br>
     **2 ) Model Folder** - This folder contains the project file. Make sure that the project file is formatted properly and is descriptive.<br><br>
     **3 ) README.md File** - This file contains the idea and process of model building. It contains concise and lucid explanation of libraries and tools used, algorithms applied and the reasons to apply them. This file is optional if the project file already contains these contents but it's always preferred to include it.
 
+<br>
 
-## Project List-
+## Project List 📝
 | Serial No. | Project Name | Contributor | Link |
 | :-: | :-: | :-: | :-: |
 | 01 | Breast Cancer Prediction |  | [Click Here]() |
@@ -42,6 +48,7 @@ A collection of several Machine learning projects from beginner to intermediate 
 | 10 | Taxi Demand Prediction |  | [Click Here]() |
 | 11 | Amazon Book Analysis |  | [Click Here]() |
 
+<br>
 
 ## Our Contributors  !! ✨
 ### Thanks to these wonderful people: ✨
@@ -55,6 +62,8 @@ A collection of several Machine learning projects from beginner to intermediate 
 		</td>
 	</tr>
 </table>
+
+<br>
 
 ## Connect with us
 
