@@ -35,6 +35,7 @@ A collection of several Machine learning projects from beginner to intermediate 
 | 08 | Loan Prediction |  | [Click Here]() |
 | 09 | Flight Fare Prediction |  | [Click Here]() |
 | 10 | Taxi Demand Prediction |  | [Click Here]() |
+| 11 | Amazon Book Analysis |  | [Click Here]() |
 
 ## Connect with us
 
