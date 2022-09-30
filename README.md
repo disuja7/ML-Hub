@@ -35,6 +35,16 @@ $ cd ML-Hub
 
 Make changes to the project (by adding the assigned project).
 
+<br>
+
+![make changes to project part 1](https://user-images.githubusercontent.com/21278020/193332991-1083b97f-3a86-4973-907c-35b593944c90.png)
+
+<br>
+
+![image](https://user-images.githubusercontent.com/21278020/193333376-31de7400-b913-4b7f-8bd0-c229e2404faf.png)
+
+
+<br>
 
 ### **4) Add, Commit and Push**
 
