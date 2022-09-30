@@ -12,11 +12,51 @@ A collection of several Machine learning projects from beginner to intermediate 
 <br> 
 
 ## Steps for contribution ⚙️
-- Fork the repository
-- Clone your forked repository using terminal or gitbash.
-- Make changes to the cloned repository
-- Add, Commit and Push
-- Then in Github, in your cloned repository find the option to make a pull request
+### **1) Fork the repository**
+<br>
+
+![Fork](https://user-images.githubusercontent.com/84925346/193315274-bdbbdbd8-e594-426a-9183-6397c453d1d1.jpeg)
+
+<br>
+
+### **2)Clone your forked repository using terminal or gitbash.**
+<br>
+
+![clone](https://user-images.githubusercontent.com/84925346/193314506-14e37116-83b4-49ce-981c-f303cc5f6c8f.jpeg)
+<br>
+
+ ```
+$ git clone https://github.com/<your-github-username>/ML-Hub.git
+$ cd ML-Hub
+```
+<br>
+
+### **3) Make changes to the cloned repository**
+
+Make changes to the project (by adding the assigned project).
+
+
+### **4) Add, Commit and Push**
+
+
+<br>Stage your changes using:
+
+```
+$ git add .
+```
+
+<br>Commit your changes using:
+
+```
+$ git commit -m "add any comment"
+```
+
+<br>Push the changes to the forked repository using:
+
+```
+$ git push
+```
+### **5)From the cloned repository in your Github account, make a pull request**
 <br>
 
 ## Resources 📖
@@ -25,8 +65,8 @@ A collection of several Machine learning projects from beginner to intermediate 
 <br>
 
 ## How should the Project look like? 🤔
-- Create a new Folder with the name same as the Project name (such as, Breast Cancer Prediction) <br><br>
-- Inside this Folder there has to be three sub-folders or files- <br><br>
+- Create a new Project Folder with the name same as the Project (such as, Breast Cancer Prediction) <br><br>
+- Inside this Project Folder there has to be three sub-folders or files- <br><br>
     **1 ) Dataset Folder** - This folder contains the dataset that is provided for analysis and model building.<br><br>
     **2 ) Model Folder** - This folder contains the project file. Make sure that the project file is formatted properly and is descriptive.<br><br>
     **3 ) README.md File** - This file contains the idea and process of model building. It contains concise and lucid explanation of libraries and tools used, algorithms applied and the reasons to apply them. This file is optional if the project file already contains these contents but it's always preferred to include it.
