@@ -1,4 +1,4 @@
-Dataset used : "https://raw.githubusercontent.com/pkmklong/Breast-Cancer-Wisconsin-Diagnostic-DataSet/master/data.csv"
+Dataset used : "https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction"
 
 The Model :	The ML model uses KNN calssifier to determine based on the given features if a diagnosis is Malignant(M) or Benign(B)
 
