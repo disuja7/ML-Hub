@@ -97,6 +97,7 @@ $ git push
 | 09 | Flight Fare Prediction |  | [Click Here](https://machinelearningprojects.net/flight-price-prediction/) |
 | 10 | White Wine Quality |  | [Click Here](https://www.kaggle.com/datasets/piyushagni5/white-wine-quality) |
 | 11 | Student Performance Analysis |  | [Click Here](https://www.kaggle.com/datasets/whenamancodes/student-performance?select=Maths.csv) |
+| 12 | Individual Medical Cost Prediction |  | [Click Here](https://www.kaggle.com/datasets/mirichoi0218/insurance) |
 
 <br>
 
