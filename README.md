@@ -95,8 +95,8 @@ $ git push
 | 07 | Estimate the weight of Fishes |  | [Click Here](https://www.kaggle.com/datasets/aungpyaeap/fish-market?select=Fish.csv) |
 | 08 | Loan Prediction |  | [Click Here](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset) |
 | 09 | Flight Fare Prediction |  | [Click Here](https://machinelearningprojects.net/flight-price-prediction/) |
-| 10 | Taxi Demand Prediction |  | [Click Here](https://github.com/anafisa/NYC-Taxi-Demand-Prediction) |
-| 11 | Amazon Book Analysis |  | [Click Here](https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019) |
+| 10 | White Wine Quality |  | [Click Here](https://www.kaggle.com/datasets/piyushagni5/white-wine-quality) |
+| 11 | Student Performance Analysis |  | [Click Here](https://www.kaggle.com/datasets/whenamancodes/student-performance?select=Maths.csv) |
 
 <br>
 
