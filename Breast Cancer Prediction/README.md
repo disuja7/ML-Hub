@@ -1,6 +1,6 @@
 Dataset used : "https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction"
 
-The Model :	The ML model uses KNN calssifier to determine based on the given features if a diagnosis is Malignant(M) or Benign(B)
+The Model :	The ML model uses Binary Classifiers to determine based on the given features if a diagnosis is Malignant(M) or Benign(B)
 
 Libraries used :
 			Pandas  (for data loading)
