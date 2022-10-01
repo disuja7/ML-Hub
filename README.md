@@ -103,7 +103,7 @@ $ git push
 ## Our Contributors  !! ✨
 ### Thanks to these wonderful people: ✨
 
-<table>
+<!--<table>
 	<tr>
 		<td>
 			<a href="https://github.com/DSC-JSS-NOIDA/Ml-Hub/graphs/contributors">
@@ -111,7 +111,8 @@ $ git push
 </a>
 		</td>
 	</tr>
-</table>
+</table>-->
+![Contributors](https://contributors-img.web.app/image?repo=DSC-JSS-NOIDA/ML-Hub)
 
 <br>
 
