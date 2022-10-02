@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/piyushagni5/white-wine-quality?resource=download
                 	seaborn 
                 	matplotlib
 
-            Model Training
+            Model Training & Evaluation :
         		sklearn.linear_model import LogisticRegression
 			sklearn.neighbors import KNeighborsClassifier
 			sklearn.ensemble import RandomForestClassifier
