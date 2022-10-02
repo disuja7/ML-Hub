@@ -88,7 +88,7 @@ $ git push
 | :-: | :-: | :-: | :-: |
 | 01 | Breast Cancer Prediction | [Dekode1859](https://github.com/Dekode1859) | [Click Here](https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction) |
 | 02 | Car Price prediction | [AAnirudh07](https://github.com/AAnirudh07)  | [Click Here](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars) |
-| 03 | Brain Stroke prediction |  | [Click Here](https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset) |
+| 03 | Brain Stroke prediction | [AAnirudh07](https://github.com/AAnirudh07) | [Click Here](https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset) |
 | 04 | Law School Admission dataset |  | [Click Here](https://www.kaggle.com/datasets/danofer/law-school-admissions-bar-passage) |
 | 05 | Data Science Job Salaries |  | [Click Here](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries) |
 | 06 | BigMart Sales Analysis and Prediction |  | [Click Here](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data?select=Train.csv) |
