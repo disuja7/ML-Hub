@@ -1,19 +1,19 @@
-## Car Price Prediction
+## White Wine Quality Predictor 
 
 ### Dataset
-https://www.kaggle.com/datasets/hellbuoy/car-price-prediction?resource=download
+https://www.kaggle.com/datasets/piyushagni5/white-wine-quality?resource=download
 
 ### Models 
-1. Linear Regression Model
-2. Decision Tree Regressor
-3. Random Forest Regressor
-### Libraries 
-    Preprocessing
-        pandas
-        seaborn 
-        matplotlib
+The Model :	The ML model used is the best model from the comparison with the existing open source machine learning libraries
 
-    Model Training
-        sklearn.linear_model - linear regression
-        sklearn.tree - decision tree regressor
-        sklearn.ensemble - random forest regressor
+	Libraries used :
+			Preprocessing :
+                pandas
+                numpy
+                seaborn 
+                matplotlib
+
+            Machine Learning Workflows :
+                PyCaret 
+
+            Model Training :
