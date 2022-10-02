@@ -1,4 +1,4 @@
-<div align="center"> <img align="center" alt="dschackfest" src="https://user-images.githubusercontent.com/84925346/193271219-6360d311-ea13-42eb-8822-4ec2fd854ee5.jpeg" height='200' width='450'></div>
+<div align="center"> <img align="center" alt="gdschackfest" src="https://user-images.githubusercontent.com/84925346/193417840-7c7db82c-490f-4a68-80df-02a64ff1cca3.png" height='200' width='450'></div>
 <br>
 
 ## **ML-Hub** 💻
@@ -87,7 +87,7 @@ $ git push
 | Serial No. | Project Name | Contributor | Dataset Link |
 | :-: | :-: | :-: | :-: |
 | 01 | Breast Cancer Prediction | [Dekode1859](https://github.com/Dekode1859) | [Click Here](https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction) |
-| 02 | Car Price prediction |  | [Click Here](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars) |
+| 02 | Car Price prediction | [AAnirudh07](https://github.com/AAnirudh07)  | [Click Here](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars) |
 | 03 | Brain Stroke prediction |  | [Click Here](https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset) |
 | 04 | Law School Admission dataset |  | [Click Here](https://www.kaggle.com/datasets/danofer/law-school-admissions-bar-passage) |
 | 05 | Data Science Job Salaries |  | [Click Here](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries) |
