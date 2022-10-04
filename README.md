@@ -101,7 +101,11 @@ $ git push
 | 13 | Credit Card Fraud Detection |  | [Click Here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) |
 | 14 | Air Quality Prediction |  | [Click Here](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india) |
 | 15 | Heart Disease Prediction |  | [Click Here](https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction) |
-
+| 16 | Book Genre Prediction |  | [Click Here](https://www.kaggle.com/datasets/athu1105/book-genre-prediction) |
+| 17 | Food Delivery Time |  | [Click Here](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset?select=train.csv) |
+| 18 | Airline Passenger Satisfaction |  | [Click Here](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction) |
+| 19 | Water Quality Prediction |  | [Click Here](https://www.kaggle.com/datasets/adityakadiwal/water-potability) |
+| 20 | Smoke Detection Prediction |  | [Click Here](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset) |
 <br>
 
 ## Our Contributors  !! ✨
