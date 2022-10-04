@@ -98,6 +98,9 @@ $ git push
 | 10 | White Wine Quality |  | [Click Here](https://www.kaggle.com/datasets/piyushagni5/white-wine-quality) |
 | 11 | Student Performance Analysis |  | [Click Here](https://www.kaggle.com/datasets/whenamancodes/student-performance?select=Maths.csv) |
 | 12 | Individual Medical Cost Prediction | [ayushthe1](https://github.com/ayushthe1) | [Click Here](https://www.kaggle.com/datasets/mirichoi0218/insurance) |
+| 13 | Credit Card Fraud Detection |  | [Click Here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) |
+| 14 | Air Quality Prediction |  | [Click Here](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india) |
+| 15 | Heart Disease Prediction |  | [Click Here](https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction) |
 
 <br>
 
