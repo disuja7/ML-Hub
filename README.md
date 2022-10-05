@@ -92,22 +92,30 @@ $ git push
 
 ## Project List 📝
 
-| Serial No. |             Project Name              |                  Contributor                  |                                              Dataset Link                                              |
-| :--------: | :-----------------------------------: | :-------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-|     01     |       Breast Cancer Prediction        |  [Dekode1859](https://github.com/Dekode1859)  |        [Click Here](https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction)         |
-|     02     |         Car Price prediction          |  [AAnirudh07](https://github.com/AAnirudh07)  |      [Click Here](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)      |
-|     03     |        Brain Stroke prediction        |                                               |           [Click Here](https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset)           |
-|     04     |     Law School Admission dataset      |                                               |        [Click Here](https://www.kaggle.com/datasets/danofer/law-school-admissions-bar-passage)         |
-|     05     |       Data Science Job Salaries       |                                               |            [Click Here](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)            |
-|     06     | BigMart Sales Analysis and Prediction |                                               | [Click Here](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data?select=Train.csv) |
-|     07     |     Estimate the weight of Fishes     |                                               |          [Click Here](https://www.kaggle.com/datasets/aungpyaeap/fish-market?select=Fish.csv)          |
-|     08     |            Loan Prediction            |                                               |    [Click Here](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)     |
-|     09     |        Flight Fare Prediction         | [Karthik Raja](https://github.com/kitrak-rev) |               [Click Here](https://machinelearningprojects.net/flight-price-prediction/)               |
-|     10     |          White Wine Quality           |                                               |              [Click Here](https://www.kaggle.com/datasets/piyushagni5/white-wine-quality)              |
-|     11     |     Student Performance Analysis      |                                               |    [Click Here](https://www.kaggle.com/datasets/whenamancodes/student-performance?select=Maths.csv)    |
-|     12     |  Individual Medical Cost Prediction   |                                               |                  [Click Here](https://www.kaggle.com/datasets/mirichoi0218/insurance)                  |
+| Serial No. |             Project Name              |                        Contributor                         |                                              Dataset Link                                              |
+| :--------: | :-----------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------- |
+|     01     |       Breast Cancer Prediction        |        [Dekode1859](https://github.com/Dekode1859)         |        [Click Here](https://www.kaggle.com/datasets/vijayaadithyanvg/breast-cancer-prediction)         |
+|     02     |         Car Price prediction          |                                                            |      [Click Here](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)      |
+|     03     |        Brain Stroke prediction        |        [AAnirudh07](https://github.com/AAnirudh07)         |           [Click Here](https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset)           |
+|     04     |     Law School Admission dataset      |                                                            |        [Click Here](https://www.kaggle.com/datasets/danofer/law-school-admissions-bar-passage)         |
+|     05     |       Data Science Job Salaries       |                                                            |            [Click Here](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)            |
+|     06     | BigMart Sales Analysis and Prediction |                                                            | [Click Here](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data?select=Train.csv) |
+|     07     |     Estimate the weight of Fishes     |                                                            |          [Click Here](https://www.kaggle.com/datasets/aungpyaeap/fish-market?select=Fish.csv)          |
+|     08     |            Loan Prediction            |                                                            |    [Click Here](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)     |
+|            |                  09                   |                   Flight Fare Prediction                   |                             [Karthik Raja](https://github.com/kitrak-rev)                              | [Click Here](https://machinelearningprojects.net/flight-price-prediction/) |
+|     10     |          White Wine Quality           | [Maulana Akbar Dwijaya](https://github.com/maulanaakbardj) |              [Click Here](https://www.kaggle.com/datasets/piyushagni5/white-wine-quality)              |
+|     11     |     Student Performance Analysis      |                                                            |    [Click Here](https://www.kaggle.com/datasets/whenamancodes/student-performance?select=Maths.csv)    |
+|     12     |  Individual Medical Cost Prediction   |         [ayushthe1](https://github.com/ayushthe1)          |                  [Click Here](https://www.kaggle.com/datasets/mirichoi0218/insurance)                  |
+|     13     |      Credit Card Fraud Detection      |                                                            |                 [Click Here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)                  |
+|     14     |        Air Quality Prediction         |                                                            |            [Click Here](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india)            |
+|     15     |       Heart Disease Prediction        |                                                            |          [Click Here](https://www.kaggle.com/datasets/rishidamarla/heart-disease-prediction)           |
+|     16     |         Book Genre Prediction         |                                                            |              [Click Here](https://www.kaggle.com/datasets/athu1105/book-genre-prediction)              |
+|     17     |          Food Delivery Time           |                                                            |   [Click Here](https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset?select=train.csv)   |
+|     18     |    Airline Passenger Satisfaction     |                                                            |        [Click Here](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction)        |
+|     19     |       Water Quality Prediction        |                                                            |              [Click Here](https://www.kaggle.com/datasets/adityakadiwal/water-potability)              |
+|     20     |      Smoke Detection Prediction       |                                                            |          [Click Here](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset)          |
 
-<br>
+ <br>
 
 ## Our Contributors !! ✨
 
