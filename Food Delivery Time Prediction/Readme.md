@@ -1,15 +1,15 @@
 DataSet: https://www.kaggle.com/datasets/gauravmalik26/food-delivery-dataset?select=train.csv
 
 Models:
-RandomForestRegressor
-Linear Regression
-Lasso Regression
+1. RandomForestRegressor
+2. Linear Regression
+3. Lasso Regression
 
 Libraries:
-Pandas
-Numpy
-Seaborn
-Matplotlib
-sklearn.ensemble
-sklearn.model_selection
-sklearn.linear_model
+1. Pandas
+2. Numpy
+3. Seaborn
+4. Matplotlib
+5. sklearn.ensemble
+6. sklearn.model_selection
+7. sklearn.linear_model
