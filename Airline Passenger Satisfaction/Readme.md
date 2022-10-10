@@ -5,18 +5,19 @@ Airline Passenger Satisfaction
 There are many factors which can affect the viability of a business from its competitiveness to its reputation and customer satisfaction.
 In this study the aim is to identify the level of satisfaction of the passengers to know the quality of services provided by the airline companies, the key factors that derive customer satisfaction and to identify the ways how the airline industry can improve the service quality.
 
-Dataset:
+Dataset:  
 https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 
-Model Used:
-Random Forest Classifier
-Support Vector Machines
-Decision Tree Classifier
-KNeighbors Classifier
-Gaussian Naive Bayes
+Model Used:    
+Random Forest Classifier  
+Support Vector Machines  
+Decision Tree Classifier  
+KNeighbors Classifier  
+Gaussian Naive Bayes  
 
 Libraries Used:
-Pandas --- for loading data into fataframe from csv file
+
+Pandas --- for loading data into fataframe from csv file   
 Sklearn --- for preprocessing and model creation
 
 
