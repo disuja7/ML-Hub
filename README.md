@@ -106,6 +106,11 @@ $ git push
 | 18 | Airline Passenger Satisfaction | [akash9579](https://github.com/akash9579) | [Click Here](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction) |
 | 19 | Water Quality Prediction |  | [Click Here](https://www.kaggle.com/datasets/adityakadiwal/water-potability) |
 | 20 | Smoke Detection Prediction |  | [Click Here](https://www.kaggle.com/datasets/deepcontractor/smoke-detection-dataset) |
+| 21 | Laptop Price Prediction |  | [Click Here](https://www.kaggle.com/datasets/muhammetvarl/laptop-price) |
+| 22 | Predicting Song Popularity |  | [Click Here](https://www.kaggle.com/datasets/yasserh/song-popularity-dataset) |
+| 23 | Mobile Price Prediction |  | [Click Here](https://www.kaggle.com/datasets/mohannapd/mobile-price-prediction) |
+| 24 | Cyberbullying Classification |  | [Click Here](https://www.kaggle.com/datasets/andrewmvd/cyberbullying-classification) |
+| 25 | Electrical Fault Detection |  | [Click Here](https://www.kaggle.com/datasets/esathyaprakash/electrical-fault-detection-and-classification) |
 <br>
 
 ## Our Contributors  !! ✨
